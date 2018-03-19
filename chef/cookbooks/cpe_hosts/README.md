@@ -1,7 +1,6 @@
 cpe_hosts Cookbook
 ----------------
-This cookbook mananges hosts in the /etc/hosts file between the
-tags `#Start-Managed-CPE-Hosts` and `#End-Managed-CPE-Hosts`.
+This cookbook mananges hosts in the /etc/hosts file which have the following tag: ` # Chef Managed`
 
 Attributes
 ----------
